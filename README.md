@@ -5,3 +5,5 @@ The methodology encompasses data collection, rigorous preprocessing to enhance i
 Evaluation metrics such as accuracy, precision, recall, and AUC-ROC underscore the model's effectiveness, indicating its potential as a valuable tool in lung cancer diagnostics. Moreover, the project explores the integration of the model into clinical workflows, addressing the practical aspects of deployment in healthcare settings.
 
 Future enhancements focus on expanding data modalities, implementing explainable AI to increase transparency, real-time processing capabilities, leveraging larger and more diverse datasets for better generalization, continuous learning mechanisms for model updating, and initiating clinical trials to validate effectiveness in real-world scenarios. This project signifies a step forward in the application of machine learning for lung cancer detection, aiming to contribute significantly to early diagnostics and, consequently, improved patient outcomes.
+
+Live Demo: huggingface.co/spaces/suhasadidela/Lung_Cancer_detection
