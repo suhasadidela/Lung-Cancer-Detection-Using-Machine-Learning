@@ -21,6 +21,11 @@ Early detection of lung cancer dramatically improves patient survival rates. Tra
 
 ---
 
+## 📸 Demo
+
+![App Demo](demo_screenshot.png)
+
+
 ## 📊 Results
 
 ### Individual Model Performance on IQ-OTH/NCCD Dataset
