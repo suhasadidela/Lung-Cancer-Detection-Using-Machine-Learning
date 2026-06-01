@@ -17,7 +17,7 @@
 
 Early detection of lung cancer dramatically improves patient survival rates. Traditional diagnostic methods are often invasive, expensive, and variable in accuracy. This project introduces a **stacking ensemble methodology** applied to CT scan images, combining deep learning and classical ML models using **logistic regression as a meta-model** to produce a highly accurate, non-invasive diagnostic tool.
 
-**My Role:** Data collection & preprocessing
+**My contributions:** Data collection & preprocessing, model deployment (Hugging Face Space)
 
 ---
 
