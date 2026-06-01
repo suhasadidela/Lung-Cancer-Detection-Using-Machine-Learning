@@ -132,17 +132,6 @@ python app.py
 
 ---
 
-## 👥 Contributors
-
-| Name | Role |
-|---|---|
-| **A. Suhas** ([@suhasadidela](https://github.com/suhasadidela)) | Data Collection & Preprocessing |
-| H. Sai Karthik V ([@saikarthik0809](https://github.com/saikarthik0809)) | Model Development & Evaluation |
-| D. Vivek Reddy | Literature Survey & Model Analysis |
-| Dr. K. Suresh, Dr. Pritam Khan | Supervisors |
-
----
-
 ## 🔮 Future Work
 
 - Attention mechanisms in CNN for better feature interpretability
