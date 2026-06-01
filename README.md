@@ -113,7 +113,8 @@ python app.py
 ├── LungCancerDetectionUsingMachine_Learning.ipynb  # Full training notebook (10+ models)
 ├── app.py                                           # Gradio web app
 ├── requirements.txt                                 # Python dependencies
-├── splnproc1703 (3).docm                           # Published research paper
+├── stacking_ensemble_lung_cancer_springer_paper.pdf  # Research paper (PDF - viewable on GitHub)
+├── stacking_ensemble_lung_cancer_springer_paper.docm # Research paper (Word - editable version)
 └── README.md
 ```
 
@@ -126,6 +127,8 @@ python app.py
 > *"A Stacking Ensemble-based Approach for Lung Cancer Detection"*  
 > K. Suresh, H. Sai Karthik V, D. Vivek Reddy, **A. Suhas**, Pritam Khan  
 > Department of Computational Intelligence, SRM Institute of Science and Technology
+>
+> > 📎 **Download Paper:** [PDF (view online)](stacking_ensemble_lung_cancer_springer_paper.pdf) | [Word .docm (editable)](stacking_ensemble_lung_cancer_springer_paper.docm)
 
 ---
 
